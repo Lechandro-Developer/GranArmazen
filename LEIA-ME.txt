@@ -1,0 +1,25 @@
+COMO USAR
+
+1. Coloque fotos reais dentro da pasta assets com estes nomes:
+   hero.jpg
+   prato1.jpg
+   prato2.jpg
+   prato3.jpg
+   prato4.jpg
+   foto1.jpg
+   foto2.jpg
+   foto3.jpg
+   foto4.jpg
+   foto5.jpg
+   foto6.jpg
+   video-poster1.jpg
+   video-poster2.jpg
+
+2. Coloque vídeos reais em MP4 dentro da pasta assets com estes nomes:
+   video1.mp4
+   video2.mp4
+
+3. Abra o index.html no navegador.
+
+4. Para vender para o restaurante, troque as fotos/vídeos por materiais autorizados pelo cliente.
+Não é recomendado puxar imagens direto do Instagram, porque pode quebrar e também depende de autorização de uso.
